@@ -1,0 +1,19 @@
+Vancouver, Seattle, I-5, 3
+Seattle, Portland, I-5, 4
+Portland, San Francisco, I-5, 11
+San Francisco, Los Angeles, I-5, 7
+Los Angeles, Tijuana, I-5, 3
+Seattle, Butte, I-90, 10
+Portland, Boise, I-84, 7
+Boise, Salt Lake City, I-84, 5
+Salt Lake City, Las Vegas, I-15, 6
+Las Vegas, Los Angeles, I-15, 4
+Las Vegas, Phoenix, US-93, 5
+Los Angeles, Phoenix, I-10, 7
+Phoenix, Albuquerque, I-40, 7
+Phoenix, Juarez, I-10, 7
+Albuquerque, Juarez, I-25, 4
+Butte, Salt Lake City, I-15, 6
+Salt Lake City, Cheyenne, I-80, 7
+Cheyenne, Denver, I-25, 2
+Albuquerque, Denver, I-25, 8
