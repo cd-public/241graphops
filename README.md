@@ -2,7 +2,7 @@
 
 Intended to completed within graph.py (provided as-is).
 
-3 Problems, 20 + 20 + 10 Points
+3 Problems, 20 + 20 + 10 Points, described and with sample tests in hw3.py
 
  In my reference solution:
 
